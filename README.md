@@ -109,6 +109,6 @@ outputs/   The figures behind the decks
 
 ## About
 
-Naveen Raj Kanagaraj, MS Marketing Analytics, Chicago.
+Naveen Raj Kanagaraj, MS Marketing Analysis, DePaul University, Chicago.
 
 *Independent analysis. Not affiliated with or endorsed by Microsoft, Xbox or Unity. Xbox, Game Pass and Microsoft are trademarks of Microsoft Corporation. Console images in the decks: Microsoft.*
